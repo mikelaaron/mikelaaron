@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mikelaaron
 - 👀 I'm new to the programming landscape. Stretching my legs a bit.
-- 🌱 I’m currently taking courses on Python, and paln to relearn HTML/CSS followed by JavaScript.
+- 🌱 I’m currently taking courses on Python, and plan to relearn HTML/CSS followed by JavaScript.
 - 💞️ I’m looking to collaborate on not much- this is all too new
 
 
